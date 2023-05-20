@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="FirstPersonShooter" Database="" Version="10000">
+  <Project Name="FirstPersonShooter" Path="FirstPersonShooter/FirstPersonShooter.project" Active="Yes"/>
+  <Project Name="FirstPersonShooter" Path="FirstPersonShooter/FirstPersonShooter.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="FirstPersonShooter" ConfigName="Debug"/>
+      <Project Name="FirstPersonShooter" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="FirstPersonShooter" ConfigName="Release"/>
+      <Project Name="FirstPersonShooter" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

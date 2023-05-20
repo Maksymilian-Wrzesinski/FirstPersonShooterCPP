@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\andre\Documents\FirstPersonShooterCPP\FirstPersonShooter\FirstPersonShooter\FirstPersonShooter\main.cpp(20,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Documents\FirstPersonShooterCPP\FirstPersonShooter\FirstPersonShooter\FirstPersonShooter\main.cpp(87,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  FirstPersonShooter.vcxproj -> C:\Users\andre\Documents\FirstPersonShooterCPP\FirstPersonShooter\FirstPersonShooter\x64\Debug\FirstPersonShooter.exe
